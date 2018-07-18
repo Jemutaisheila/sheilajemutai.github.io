@@ -1,2 +1,4 @@
 # sheilajemutai.github.io
-my personal website
+coder
+i love coding
+
